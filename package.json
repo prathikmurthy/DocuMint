@@ -1,0 +1,52 @@
+{
+  "name": "app_router_tutorial",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@mantine/carousel": "^7.2.2",
+    "@mantine/code-highlight": "^7.2.2",
+    "@mantine/core": "^7.2.2",
+    "@mantine/dropzone": "^7.2.2",
+    "@mantine/form": "^7.2.2",
+    "@mantine/hooks": "^7.2.2",
+    "@mantine/modals": "^7.2.2",
+    "@mantine/notifications": "^7.2.2",
+    "@mantine/nprogress": "^7.2.2",
+    "@tabler/icons": "^2.41.0",
+    "@tabler/icons-react": "^2.41.0",
+    "@tiptap/pm": "^2.1.12",
+    "@tiptap/react": "^2.1.12",
+    "@tiptap/starter-kit": "^2.1.12",
+    "@uidotdev/usehooks": "^2.4.1",
+    "autoprefixer": "^9.8.8",
+    "axios": "^1.6.2",
+    "embla-carousel-react": "^7.1.0",
+    "framer-motion": "^10.16.5",
+    "fs": "^0.0.1-security",
+    "icons-react": "^3.7.1",
+    "next": "13.4.7",
+    "next-auth": "^4.24.5",
+    "openai": "^4.19.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-markdown": "^9.0.1",
+    "tabler": "^1.0.0-alpha.8",
+    "tailwindcss": "^3.3.5",
+    "tiptap-markdown": "^0.8.4"
+  },
+  "devDependencies": {
+    "@types/next": "^9.0.0",
+    "@types/node": "20.9.2",
+    "@types/react": "^18.2.37",
+    "postcss": "^8.4.31",
+    "postcss-preset-mantine": "^1.11.0",
+    "postcss-simple-vars": "^7.0.1",
+    "typescript": "^5.2.2"
+  }
+}

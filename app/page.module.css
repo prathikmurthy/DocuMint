@@ -1,0 +1,34 @@
+.markdown {
+    color: white;
+    margin-top: 2em;
+    margin-left: 2em;
+    overflow-x: wrap;
+    margin-right: 2em;
+    margin-bottom: 3em;
+}
+
+.markdown h1 {
+    font-size: xx-large;
+    font-weight: bolder;
+    padding-bottom: 1em;
+    text-align: center;
+}
+
+.markdown h2 {
+    padding-top: 1em;
+    font-size: larger;
+    font-weight: bold;
+    padding-bottom: 1em;
+}
+
+.markdown pre {
+    font-weight: light;
+    color: gray;
+    margin-left: 2em;
+    overflow-x: auto;
+}
+
+.markdown ul {
+    font-size: medium;
+    gap: 5px;
+}

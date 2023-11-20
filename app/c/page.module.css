@@ -1,0 +1,28 @@
+.markdown {
+    background-color: rgb(10, 10, 10);
+    margin-top: 2em;
+    margin-left: 2em;
+}
+
+.markdown h1 {
+    font-size: x-large;
+    font-weight: bolder;
+    padding-bottom: 1em;
+}
+
+.markdown h2 {
+    padding-top: 1em;
+    font-size: larger;
+    font-weight: bold;
+    padding-bottom: 1em;
+}
+
+.markdown pre {
+    font-weight: light;
+    color: gray;
+    margin-left: 2em;
+}
+
+.markdown ul {
+    font-size: medium;
+}
